@@ -15,29 +15,29 @@
 </p>
 <br>
 <div style="margin: 2rem">
-    <a href="mailto:mmrunal@student.ubc.ca">
+    <a href="mailto:mmrunal@student.ubc.ca" target="_blank">
         <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" height="45">
     </a>
-    <a href="https://www.linkedin.com/in/moonin">
+    <a href="https://www.linkedin.com/in/moonin" target="_blank">
         <img src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" height="45">
     </a> 
-    <a href="https://codeforces.com/profile/panned">
+    <a href="https://codeforces.com/profile/panned" target="_blank">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png?f=webp&w=256" height="36">
     </a> 
-    <a href="https://github.com/Moon0256">
+    <a href="https://github.com/Moon0256" target="_blank">
         <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="45">
     </a>
-    <a href="https://monkeytype.com/account">
+    <a href="https://monkeytype.com/account" target="_blank">
         <img src="https://cdn-1.webcatalog.io/catalog/monkeytype/monkeytype-icon-filled-256.png?v=1714775176398"  height="45" style="border-radius: 10px;">
     </a>
-    <a href="https://music.apple.com/profile/hermioneweasleya1">
+    <a href="https://music.apple.com/profile/hermioneweasleya1" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Apple_Music_icon.svg/2048px-Apple_Music_icon.svg.png" height="45">
     </a>
 </div>
 <br>
 <div style="margin: 2rem">
   <div style="font-size: 24px; text-decoration: none;">
-      <a href="https://drive.google.com/file/d/1zbW7mj9xxfw9Kr6RZN6a0KqNQS9ym6p5/view?usp=share_link"><b>My Resume<b></a>
+      <a href="https://drive.google.com/file/d/1zbW7mj9xxfw9Kr6RZN6a0KqNQS9ym6p5/view?usp=share_link" target="_blank"><b>My Resume<b></a>
   </div>
 
   <br>
@@ -80,10 +80,10 @@
 
 <div style="text-align: center; margin: 2rem">
     <p><strong>Credits:</strong></p>
-    <a href="https://github.com/Jupiter-is-BIG">
+    <a href="https://github.com/Jupiter-is-BIG" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/51914102?v=4" width="40" style="border-radius: 10px;" alt="GitHub Avatar">
     </a>
-    <a href="https://harrypotter.fandom.com/wiki/Albus_Dumbledore">
+    <a href="https://harrypotter.fandom.com/wiki/Albus_Dumbledore" target="_blank">
       <img src="https://static.wikia.nocookie.net/harrypotter/images/e/e1/Hogwarts_Castle_DHF2.jpg/revision/latest?cb=20120128145344" width="40" style="border-radius: 10px;" alt="Hogwarts Castle">
     </a>
   </div>
