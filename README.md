@@ -36,8 +36,8 @@
 </div>
 <br>
 <div style="margin: 2rem">
-  <img src="https://t3.ftcdn.net/jpg/03/77/85/04/360_F_377850455_Gk0rRBzegH6YX9SZK9YbgyYyLwrVb9zi.jpg" width="14" style="border-radius: 3px">
-  <a href="https://drive.google.com/file/d/1zbW7mj9xxfw9Kr6RZN6a0KqNQS9ym6p5/view?usp=share_link" style="font-size: 20px; text-decoration: none">
+  
+  <a href="https://drive.google.com/file/d/1zbW7mj9xxfw9Kr6RZN6a0KqNQS9ym6p5/view?usp=share_link" style="font-size: 24px; text-decoration: none">
   <b>My Resume</b>
 
   <br>
