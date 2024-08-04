@@ -35,6 +35,7 @@
     </a>
 </div>
 <br>
+
 <div style="margin: 2rem">
   <div style="font-size: 24px; text-decoration: none;">
       <a href="https://drive.google.com/file/d/1zbW7mj9xxfw9Kr6RZN6a0KqNQS9ym6p5/view?usp=share_link" target="_blank"><b>My Resume<b></a>
@@ -46,7 +47,6 @@
   <p align="center">
     <img src="./GoldenSnitch.gif" width="70%"/>
     </p>
-</a>
 </div>
 
 <br>
