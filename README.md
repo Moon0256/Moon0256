@@ -8,7 +8,7 @@
   <br>
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=25&duration=798&pause=1000&color=619E34&center=true&random=false&width=435&lines=Competitive+Programmer;Student+at+UBC;Machine+Learning+Enthusiast;Student+Developer;Mathematics+Aficionado" alt="Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=25&duration=798&pause=1000&color=05E3E7&center=true&random=false&width=435&lines=Competitive+Programmer;Student+at+UBC;Machine+Learning+Enthusiast;Student+Developer;Mathematics+Aficionado" alt="Text" />
 
 <p style="padding-left: 2rem; padding-right: 2rem; width: 50%; margin: 2rem;">
     Hello, I am <b>Moon</b>. I am a third year student studying Computer Science and Mathematics at the University of British Columbia. You can reach out to me through any of the following:
@@ -59,13 +59,22 @@
 
 <br>
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; margin: 2rem">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moon0256&langs_count=4&theme=tokyonight" alt="Most Used Languages" align="center" width="35%"/>
+<div style="display: flex; flex-direction: column; margin: 2rem;">
+    <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moon0256&langs_count=4&theme=highcontrast" alt="Most Used Languages" align="center" width="35%"/>
 
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=Moon0256&theme=swift" alt="Github Stats" align="center" width="60%"/>
-
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moon0256&theme=highcontrast" alt="Github Stats" align="center" width="60%"/>
 
 </div>
+<br>
+<br>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Moon0256&show_icons=true&theme=highcontrast&count_private=true" alt="Github Stats" align="center" width="85%"/>
+</div>
+
+</div>
+
+
    
    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Moon0256&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats" align="center"/>
    <img src="https://qph.cf2.quoracdn.net/main-qimg-45e525d065a5f375da25d2c0f763d86d" width=""> -->
