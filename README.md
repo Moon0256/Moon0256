@@ -90,10 +90,13 @@
 <div style="text-align: center; margin: 2rem">
     <p><strong>Credits:</strong></p>
     <a href="https://github.com/Jupiter-is-BIG" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/51914102?v=4" width="40" style="border-radius: 10px;" alt="GitHub Avatar">
+      <img src="https://avatars.githubusercontent.com/u/51914102?v=4" width="40rem" style="border-radius: 10px;" alt="GitHub Avatar">
     </a>
     <a href="https://harrypotter.fandom.com/wiki/Albus_Dumbledore" target="_blank">
-      <img src="https://static.wikia.nocookie.net/harrypotter/images/e/e1/Hogwarts_Castle_DHF2.jpg/revision/latest?cb=20120128145344" width="40" style="border-radius: 10px;" alt="Hogwarts Castle">
+      <img src="https://static.wikia.nocookie.net/harrypotter/images/e/e1/Hogwarts_Castle_DHF2.jpg/revision/latest?cb=20120128145344" width="40rem" style="border-radius: 10px;" alt="Hogwarts Castle">
+    </a>
+    <a href="https://devpost.com/software/github-readme-stats" target="_blank">
+      <img src="https://pbs.twimg.com/profile_images/625987202909085696/KKYbLP8y_400x400.jpg" width="40rem" style="border-radius: 10px;" alt="Devpost">
     </a>
   </div>
 
