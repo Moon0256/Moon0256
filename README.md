@@ -2,9 +2,10 @@
   <h1 align="center">Welcome to the Moon 🌑</h1>
   <p><i>"Ah, <b>music</b>. A magic beyond all we do here!"</i></p>
   <br>
-  <img src="image.png" align="center" width="75%" />
+  <img src="image.png" align="center" width="50%" />
 
   <br>
+
   <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=25&duration=798&pause=1000&color=619E34&center=true&random=false&width=435&lines=Competitive+Programmer;Student+at+UBC;Machine+Learning+Enthusiast;Student+Developer;Mathematics+Aficionado" alt="Text" />
 
   <p width="50%">Hello, I am <b>Moon</b>. I am a third year student studying Computer Science and Mathematics at the University of British Columbia. You can reach out to me through any of the following: </p>
@@ -12,22 +13,22 @@
 
 <div>
     <a href="mailto:mmrunal@student.ubc.ca">
-        <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" height="48">
+        <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" height="45">
     </a>
     <a href="https://www.linkedin.com/in/moonin">
-        <img src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" height="48">
+        <img src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" height="45">
     </a> 
     <a href="https://codeforces.com/profile/panned">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png?f=webp&w=256" height="40">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png?f=webp&w=256" height="36">
     </a> 
     <a href="https://github.com/Moon0256">
-        <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="48">
+        <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="45">
     </a>
     <a href="https://monkeytype.com/account">
-        <img src="https://cdn-1.webcatalog.io/catalog/monkeytype/monkeytype-icon-filled-256.png?v=1714775176398"  height="48" style="border-radius: 10px;">
+        <img src="https://cdn-1.webcatalog.io/catalog/monkeytype/monkeytype-icon-filled-256.png?v=1714775176398"  height="45" style="border-radius: 10px;">
     </a>
     <a href="https://music.apple.com/profile/hermioneweasleya1">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Apple_Music_icon.svg/2048px-Apple_Music_icon.svg.png" height="48">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Apple_Music_icon.svg/2048px-Apple_Music_icon.svg.png" height="45">
     </a>
 </div>
 
@@ -39,7 +40,9 @@
 
   <br>
 
-  <img src="https://i.pinimg.com/originals/b9/ea/c2/b9eac2bcd463517ff3e749f9d02de542.gif" width="75%">
+  <p align="center">
+    <img src="https://i.pinimg.com/originals/b9/ea/c2/b9eac2bcd463517ff3e749f9d02de542.gif" width="70%"/>
+    </p>
 </a>
 </div>
 
@@ -65,7 +68,7 @@
    <img src="https://qph.cf2.quoracdn.net/main-qimg-45e525d065a5f375da25d2c0f763d86d" width=""> -->
 
 
-<div style="text-align: center; margin-top: 30px;">
+<div style="text-align: center; margin-top: 4rem;">
     <p style="font-style: italic;;">“Things we lose have a way of coming back to us in the end, if not always in the way we expect.”</p>
 </div>
 
