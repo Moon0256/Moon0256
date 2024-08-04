@@ -42,6 +42,8 @@
   </a>
 
   <br>
+  <br>
+  <br>
 
   <p align="center">
     <img src="./GoldenSnitch.gif" width="70%"/>
