@@ -41,7 +41,7 @@
   <br>
 
   <p align="center">
-    <img src="https://i.pinimg.com/originals/b9/ea/c2/b9eac2bcd463517ff3e749f9d02de542.gif" width="70%"/>
+    <img src="./GoldenSnitch.gif" width="70%"/>
     </p>
 </a>
 </div>
