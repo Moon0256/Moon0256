@@ -10,7 +10,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=25&duration=798&pause=1000&color=619E34&center=true&random=false&width=435&lines=Competitive+Programmer;Student+at+UBC;Machine+Learning+Enthusiast;Student+Developer;Mathematics+Aficionado" alt="Text" />
 
-<p style="padding-left: 2rem; padding-right: 2rem; width: 50%; margin: 2rem auto;">
+<p style="padding-left: 2rem; padding-right: 2rem; width: 50%; margin: 2rem;">
     Hello, I am <b>Moon</b>. I am a third year student studying Computer Science and Mathematics at the University of British Columbia. You can reach out to me through any of the following:
 </p>
 <br>
