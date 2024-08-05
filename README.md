@@ -27,7 +27,7 @@
     <a href="https://github.com/Moon0256" target="_blank">
         <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="45">
     </a>
-    <a href="https://monkeytype.com/account" target="_blank">
+    <a href="https://monkeytype.com/profile/panned" target="_blank">
         <img src="https://cdn-1.webcatalog.io/catalog/monkeytype/monkeytype-icon-filled-256.png?v=1714775176398"  height="45" style="border-radius: 10px;">
     </a>
     <a href="https://music.apple.com/profile/hermioneweasleya1" target="_blank">
