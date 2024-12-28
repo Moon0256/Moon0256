@@ -38,7 +38,7 @@
 
 <div style="margin: 2rem">
   <div style="font-size: 24px; text-decoration: none;">
-      <a href="[https://drive.google.com/file/d/1zbW7mj9xxfw9Kr6RZN6a0KqNQS9ym6p5/view?usp=share_link](https://drive.google.com/file/d/176aUaH_TfHW7RBx8pTG5PmmR7gagVX-c/view?usp=sharing)" target="_blank"><b>My Resume<b></a>
+      <a href="https://drive.google.com/file/d/176aUaH_TfHW7RBx8pTG5PmmR7gagVX-c/view?usp=sharing" target="_blank"><b>My Resume<b></a>
   </div>
 
   <br>
