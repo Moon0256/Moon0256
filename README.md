@@ -68,9 +68,6 @@
 </div>
 <br>
 <br>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Moon0256&show_icons=true&theme=highcontrast&count_private=true" alt="Github Stats" align="center" width="85%"/>
-</div>
 
 </div>
 
