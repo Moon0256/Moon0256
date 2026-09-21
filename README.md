@@ -59,13 +59,13 @@
 
 <br>
 
-<div style="display: flex; flex-direction: column; margin: 2rem;">
+<!-- <div style="display: flex; flex-direction: column; margin: 2rem;">
     <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moon0256&langs_count=4&theme=highcontrast" alt="Most Used Languages" align="center" width="35%"/>
 
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moon0256&theme=highcontrast" alt="Github Stats" align="center" width="60%"/>
 
-</div>
+</div> -->
 <br>
 <br>
 
